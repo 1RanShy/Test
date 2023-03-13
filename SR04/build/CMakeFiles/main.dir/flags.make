@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/shy/Desktop/Pet-Automatic-Feeder/SR04/include
+CXX_INCLUDES = -I/home/shy/Desktop/Test/SR04/include
 
 CXX_FLAGS = 
 

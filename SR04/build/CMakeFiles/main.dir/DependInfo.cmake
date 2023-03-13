@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shy/Desktop/Pet-Automatic-Feeder/SR04/main.cpp" "/home/shy/Desktop/Pet-Automatic-Feeder/SR04/build/CMakeFiles/main.dir/main.cpp.o"
-  "/home/shy/Desktop/Pet-Automatic-Feeder/SR04/src/TimeUtils.cpp" "/home/shy/Desktop/Pet-Automatic-Feeder/SR04/build/CMakeFiles/main.dir/src/TimeUtils.cpp.o"
-  "/home/shy/Desktop/Pet-Automatic-Feeder/SR04/src/hcsr04.cpp" "/home/shy/Desktop/Pet-Automatic-Feeder/SR04/build/CMakeFiles/main.dir/src/hcsr04.cpp.o"
+  "/home/shy/Desktop/Test/SR04/main.cpp" "/home/shy/Desktop/Test/SR04/build/CMakeFiles/main.dir/main.cpp.o"
+  "/home/shy/Desktop/Test/SR04/src/TimeUtils.cpp" "/home/shy/Desktop/Test/SR04/build/CMakeFiles/main.dir/src/TimeUtils.cpp.o"
+  "/home/shy/Desktop/Test/SR04/src/hcsr04.cpp" "/home/shy/Desktop/Test/SR04/build/CMakeFiles/main.dir/src/hcsr04.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
